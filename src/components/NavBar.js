@@ -29,18 +29,6 @@ const NavBar = () => {
               >
                 Pacientes
               </Link>
-              <Link
-                to="/medicos"
-                className="text-sky-900 hover:bg-sky-400 hover:text-white px-3 py-2 rounded-md text-sm font-medium"
-              >
-                Médicos
-              </Link>
-              <Link
-                to="/historias"
-                className="text-sky-900 hover:bg-sky-400 hover:text-white px-3 py-2 rounded-md text-sm font-medium"
-              >
-                Historias
-              </Link>
             </div>
           </div>
           <div className="-mr-2 flex md:hidden">
